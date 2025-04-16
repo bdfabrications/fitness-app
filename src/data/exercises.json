@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Push-up",
+      "type": "Strength",
+      "muscleGroup": "Chest, Shoulders, Triceps",
+      "equipmentNeeded": ["Bodyweight"],
+      "estimatedMET": 3.8,
+      "difficultyLevel": "Beginner/Intermediate",
+      "notes": "MET value can increase significantly with speed/intensity."
+    },
+    {
+      "id": 2,
+      "name": "Running (6 mph / 10 min/mile)",
+      "type": "Cardio",
+      "muscleGroup": "Full Body",
+      "equipmentNeeded": ["None", "Treadmill"],
+      "estimatedMET": 9.8,
+      "difficultyLevel": "Intermediate"
+    },
+    {
+      "id": 3,
+      "name": "Bodyweight Squat",
+      "type": "Strength",
+      "muscleGroup": "Quads, Glutes, Hamstrings",
+      "equipmentNeeded": ["Bodyweight"],
+      "estimatedMET": 3.5,
+      "difficultyLevel": "Beginner"
+    },
+    {
+      "id": 4,
+      "name": "Walking (3 mph / 20 min/mile)",
+      "type": "Cardio",
+      "muscleGroup": "Full Body",
+      "equipmentNeeded": ["None"],
+      "estimatedMET": 3.3,
+      "difficultyLevel": "Beginner"
+    },
+    {
+      "id": 5,
+      "name": "Cycling (Leisurely, <10 mph)",
+      "type": "Cardio",
+      "muscleGroup": "Legs, Cardiovascular",
+      "equipmentNeeded": ["Bicycle"],
+      "estimatedMET": 4.0,
+      "difficultyLevel": "Beginner"
+    },
+    {
+      "id": 6,
+      "name": "Jumping Jacks",
+      "type": "Cardio",
+      "muscleGroup": "Full Body",
+      "equipmentNeeded": ["Bodyweight"],
+      "estimatedMET": 8.0,
+      "difficultyLevel": "Beginner/Intermediate"
+    },
+     {
+      "id": 7,
+      "name": "Plank",
+      "type": "Strength",
+      "muscleGroup": "Core",
+      "equipmentNeeded": ["Bodyweight"],
+      "estimatedMET": 2.5,
+      "difficultyLevel": "Beginner",
+      "notes": "MET value is low as it's often held statically."
+    },
+    {
+      "id": 8,
+      "name": "Dumbbell Bicep Curl",
+      "type": "Strength",
+      "muscleGroup": "Biceps",
+      "equipmentNeeded": ["Dumbbells"],
+      "estimatedMET": 3.0,
+      "difficultyLevel": "Beginner/Intermediate",
+      "notes": "MET value is an average estimate for moderate weightlifting."
+    },
+    {
+      "id": 9,
+      "name": "Swimming (Freestyle, moderate)",
+      "type": "Cardio",
+      "muscleGroup": "Full Body",
+      "equipmentNeeded": ["Pool"],
+      "estimatedMET": 7.0,
+      "difficultyLevel": "Intermediate"
+    }
+  ]
